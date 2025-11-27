@@ -1,0 +1,6 @@
+testscript\LoginTest.class
+testscript\Login.class
+testscript\Base.class
+testscript\ManageNewsTest.class
+generatereport\Listeners.class
+retry\Retry.class
